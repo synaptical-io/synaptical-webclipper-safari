@@ -1,2 +1,5 @@
-# synaptical-webclipper-safari
-Privacy-first Safari web clipper that captures and structures web content for your personal knowledge workflows.
+# Synaptical WebClipper for Safari
+
+Privacy-first web clipper for Safari that sends content directly to your personal Synaptical Ori server.
+
+> **Status:** Early public development. APIs, UI, and behavior are still evolving.
